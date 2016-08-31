@@ -71,7 +71,7 @@ tables
   </tr>
 </table>
 - You should ignore 'best practices' for the browser such as avoiding inline styles.
--
+- It is in best practice to code out buttons rather than use images so that the e-mail provider does not block the image used for the button
 
 
 
