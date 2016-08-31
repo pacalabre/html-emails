@@ -74,5 +74,12 @@ tables
 - It is in best practice to code out buttons rather than use images so that the e-mail provider does not block the image used for the button
 
 
+// CSS
+
+No CSS3 properties
+Use CSS 2.1 specs
+Use Inline Styles
+
+
 
 
